@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">auth</string>
+    <string name="com_auth0_client_id">7XoNRksirMiZUuBWkpyY93qP9iGMhoYQ</string>
+    <string name="com_auth0_domain">anelder-stripe.auth0.com</string>
+</resources>
